@@ -37,7 +37,6 @@ public class Orden {
 						System.out.print(num2);
 
 					}
-
 				}
 
 			} else  { // Num3 es mayor que num1
