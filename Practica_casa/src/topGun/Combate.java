@@ -16,6 +16,7 @@ public class Combate extends Avion {
 	//	GETTERS Y SETTERS
 	
 	public boolean isEsFurtivo() {
+		
 		return esFurtivo;
 	}
 

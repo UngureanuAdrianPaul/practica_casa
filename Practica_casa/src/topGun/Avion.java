@@ -10,7 +10,7 @@ public class Avion {
 	private Piloto piloto;
 	
 	public void mostrarPiloto() {
-		System.out.println("Numero avion: "+ idAvion + " Modelo: " + modAvion+  
+		System.out.print("Numero avion: "+ idAvion + " Modelo: " + modAvion+  
 				" Capacidad: " + capAvion + " Piloto: "+ piloto);
 	}
 

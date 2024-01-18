@@ -5,7 +5,7 @@ public class Piloto {
 	//ATRIBUTOS
 	
 	private int idPiloto = 0;
-	private String nomPiloto;
+	protected String nomPiloto;
 	private int horasVueloPiloto = 0;
 	private String rangoPiloto;
 	public void mostrarPiloto() {
